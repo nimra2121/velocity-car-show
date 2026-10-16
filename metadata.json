@@ -1,0 +1,6 @@
+{
+  "name": "VELOCITY — The Art of Driving",
+  "description": "An extraordinary, cinematic, premium 3D automotive experience showcasing the pinnacle of automotive engineering, design, and performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
